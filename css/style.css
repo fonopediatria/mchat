@@ -27,3 +27,16 @@ input, select{
     border-radius: 5px;
     font-size: 14px;
 }
+
+footer{
+
+    margin: 30px;
+    text-align: center;
+    font-size: 21px;
+}
+
+footer a{
+    
+    color: rgb(179, 5, 179);
+
+}
